@@ -1,0 +1,26 @@
+
+.addForm{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: flex-end;
+    margin: auto;
+}
+
+.addForm input,button {
+    padding: .6rem;
+    outline: none;
+    border: 1px solid #999;
+
+}
+
+#addTableItem{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: .3rem;
+    outline: none;
+    cursor: pointer;
+    background-color: #468799;
+    color: #fff;
+}
